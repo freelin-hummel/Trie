@@ -6,3 +6,5 @@
 /bin/Debug
 /obj/Debug
 /packages
+/obj/Release/Trie.csproj.CoreCompileInputs.cache
+/obj/Release/Trie.csprojAssemblyReference.cache
