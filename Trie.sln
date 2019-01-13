@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trie", "Trie.csproj", "{2642099E-7A44-47FB-BB5B-46BDDCC381D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrieTests", "..\TrieTests\TrieTests.csproj", "{E6AF0A83-DC7F-4285-9A7B-D4D833C2729D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2642099E-7A44-47FB-BB5B-46BDDCC381D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2642099E-7A44-47FB-BB5B-46BDDCC381D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2642099E-7A44-47FB-BB5B-46BDDCC381D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2642099E-7A44-47FB-BB5B-46BDDCC381D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AF0A83-DC7F-4285-9A7B-D4D833C2729D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AF0A83-DC7F-4285-9A7B-D4D833C2729D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AF0A83-DC7F-4285-9A7B-D4D833C2729D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AF0A83-DC7F-4285-9A7B-D4D833C2729D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C325D60-4A9E-40EE-81BA-FF7A44712280}
+	EndGlobalSection
+EndGlobal
